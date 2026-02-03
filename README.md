@@ -8,7 +8,10 @@
 ## 📊 Dashboard Preview
 
 ![Inventory Dashboard](Dashboard.png)
-![KPI Dashboard](KPI.png)
+
+<p align="center">
+  <img src="KPI.png" alt="KPI Dashboard" width="600">
+</p>
 
 ---
 
@@ -155,4 +158,5 @@ Despite these limitations, the project demonstrates inventory diagnostics and de
 ## 🏁 Conclusion
 
 This project showcases how **structured analysis, correct KPIs, and business-focused interpretation** can uncover hidden inefficiencies in inventory operations. The emphasis is on decision-making impact rather than tools alone—an essential skill set for data analysts in supply chain and retail analytics.
+
 
